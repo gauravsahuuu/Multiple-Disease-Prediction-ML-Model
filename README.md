@@ -6,4 +6,4 @@ Predictions:
 
 Trained models using Pickle Module:
    1. diabetese_trained_model
-   2. heart_disease_trained_model
+   2. heart_trained_model
